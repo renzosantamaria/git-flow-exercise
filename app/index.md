@@ -8,15 +8,25 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
-[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+[Quick Oatmeal Pancakes](recipe/feb/quick-oatmealpankakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md)
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
-### [John Lemon](writer/john-lemon.md) 
+### [Madame Croque](writer/madame-croque.md) 
 
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
+[Roast Pork Sandwich](recipe/feb/roast-pork-sandwich.md)
+
+## Last month's favorites
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
+
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+
+### [Eggs Benny](writer/eggs-benny.md)
+
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
 ### [Madame Croque](writer/madame-croque.md) 
 
